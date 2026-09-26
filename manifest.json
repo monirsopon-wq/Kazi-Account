@@ -1,0 +1,37 @@
+{
+  "name": "Kazi Engineering and Developer",
+  "short_name": "Kazi Accounts",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12213f",
+  "theme_color": "#12213f",
+  "description": "Accounts & Project Tracker",
+  "icons": [
+    {
+      "src": "https://kaziaccounts.vercel.app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://kaziaccounts.vercel.app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://kaziaccounts.vercel.app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://kaziaccounts.vercel.app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
